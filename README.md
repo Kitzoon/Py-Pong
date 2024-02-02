@@ -1,4 +1,4 @@
-![Py-Pong]([https://i.imgur.com/yQRRkxr.png])
+![alt text]([http://url/to/img.png](https://i.imgur.com/yQRRkxr.png))
 
 # Py-Pong
 Classic 2D pong made in Python using pygame.
